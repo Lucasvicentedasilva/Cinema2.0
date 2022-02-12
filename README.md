@@ -1,7 +1,7 @@
 # Cinema 2.0
  
  <p align="center">
- <img alt="logo" title="logo" src="imagens/logo.png">
+ <img alt="logo"  src="imagens/logo.png">
 
 <p align="center">
  <a href="#sobre">Sobre</a> .
