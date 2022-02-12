@@ -1,0 +1,48 @@
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\bin\Debug\Cinema.exe
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.csproj.SuggestedBindingRedirects.cache
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.Login.resources
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.exe
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.pdb
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.frmMenu.resources
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.telaGerente.resources
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.frmSala.resources
+D:\Kamilla\PrintWayy\Gerenciador certo\Cinema\Cinema\obj\Debug\Cinema.frmFilme.resources
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\bin\Debug\Cinema.exe
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.csproj.SuggestedBindingRedirects.cache
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.frmFilme.resources
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.frmMenu.resources
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.frmSala.resources
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.Login.resources
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.telaGerente.resources
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.exe
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.pdb
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.NovoFilme.resources
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.frmSessoes.resources
+D:\Kamilla\PrintWayy\Gerenciador\Projeto-Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+D:\LUCAS\Projeto-Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\LUCAS\Projeto-Cinema\Cinema\bin\Debug\Cinema.exe
+D:\LUCAS\Projeto-Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.csproj.AssemblyReference.cache
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.csproj.SuggestedBindingRedirects.cache
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.frmFilme.resources
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.frmMenu.resources
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.frmSala.resources
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.frmSessoes.resources
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.Login.resources
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.NovoFilme.resources
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.telaGerente.resources
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.exe
+D:\LUCAS\Projeto-Cinema\Cinema\obj\Debug\Cinema.pdb
