@@ -30,7 +30,12 @@ namespace Cinema
 
         private void frmSessoes_Load(object sender, EventArgs e)
         {
-
+            string sql = "SELECT id_Titulo,id_Duracao FROM tbl_Sessoes WHERE id_Titulo = @titulo";
+            string titulo = cbFilme.Text;
+            SqlCommand cmd = new SqlCommand(sql, cn);
+            cmd.Parameters.Add("@titulo", SqlDbType.VarChar).Value = titulo;
+            cn.Open();
+            
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -74,6 +79,7 @@ namespace Cinema
                     string nome = txtNome.Text;
 
                     string sql = "insert into tbl_Sessoes(hr_Inicio,hr_Fim,ds_Audio,tp_Animacao,vl_Ingresso,vl_data,nm_Sessao)values(@hrInicial,@hrFim,@audio,@animacao,@ingresso,@data,@nome)";
+                    
                     SqlCommand cmd = new SqlCommand(sql, cn);
 
                     cmd.Parameters.Add("@hr_inicio", SqlDbType.Time).Value = hrInicial;
@@ -134,20 +140,20 @@ namespace Cinema
         private void dtHrInicio_ValueChanged(object sender, EventArgs e)
         {
 
+            
         }
 
         private void cbFilme_SelectedValueChanged(object sender, EventArgs e)
         {
-            /* buscar filmes e duracao no banco de dados */
+            
             dtHrFim.Value = dtHrInicio.Value;
             dtHrFim.Value = dtHrFim.Value.AddHours(2);
             dtHrFim.Value = dtHrFim.Value.AddMinutes(20);
 
         }
-
         private void cbFilme_SelectedIndexChanged(object sender, EventArgs e)
-        { 
-
+        {
+            
         }
             
     }

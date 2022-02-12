@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0501442-8b2b-4530-883d-92027a204efb": {
+      "ProjectGuid": "a0501442-8b2b-4530-883d-92027a204efb",
+      "DisplayName": "Cinema",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
